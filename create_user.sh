@@ -9,3 +9,5 @@ sudo useradd -m $username
 
 echo "NEW USER ($username) CREATED"
 
+
+

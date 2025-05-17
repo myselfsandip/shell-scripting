@@ -25,3 +25,7 @@ read username
 
 echo "You Entered $username"
 
+#Accessing Arguments
+echo "ENTERED Argumrnts are : $0 $1 $2"
+
+
